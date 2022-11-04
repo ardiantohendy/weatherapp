@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="chose_your_location">Chose Your Location</string>
+    <string name="enter_country_code_optional">country code (optional)...</string>
+</resources>
